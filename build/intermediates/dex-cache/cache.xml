@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\f30a2784a733b872becb14d27921713d15dd9032\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_3166c2a616d09b28e40eb932d27957748e535aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\789f504d493e00e876aff727298134531de66792\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_368ea92d9cc7c0efbc2b0f3ec2cefe9c2904a2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\79178446e2a7086be972e07ffbc943fd87f3e146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_e34a01ddec90e54fae130c8f03a433ca13f68f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\14eb1663fe936fc090a0052e2eafd031f1ec974a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_49b8fea1bf64b511d48b0f0de2418bf91bc318cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\2f71628e1b9c31fd1778e8992e5d8142a670d09c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ace574bd540f619e04e8217be64111fdf1f2a67">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_0f435a9fbce5fc8640c2e67bd3a3b9cb3a61244a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_db52efe230b411e19b7e4bd852119785e7ca38e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_0af0f25487adfaa747ee9daab5af44e481944465\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\be71f11e3f86116c3940a9e9f074c90e2ec3130c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ea9681ed41b1031733c2d7baf852cfa73897196">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_24c0a9ed68ddee96d06f51d39658b6c6aa7d5e7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_a4d857d0994d267aebf4cfc4addf7dd6f48be469\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\additionnal_0af0f25487adfaa747ee9daab5af44e481944465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\activation_a4d857d0994d267aebf4cfc4addf7dd6f48be469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\170978258ce652045383037963563cf0357c6545\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_0da8f2d144d5928a617b932a2eb4fe95ad3cd574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\c80b44e69e7ed0f9ddcc38a82773f528a3422922\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b10e046153454f9a4d7c6ab2ec1fa461faa37386">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_b7d15f479a29e0b5952eb55cc21428170e425c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\5f1d8059ca6bbe9e80b0170464ab8f0eb862ae9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_016f67a0217f9b803a9717371574b2a0d85b7c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\mail_63d303d516aa04020f9edd3cf71f0945249eba73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\library-2.4.0_5695cbfa042c8beadaafe1b2254fbc94fd37b897.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_63d303d516aa04020f9edd3cf71f0945249eba73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c6f037812d0a44cd5ab3e829108d8684677f1d7">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_10f10fc304b5a0217da55eed70fca1f09e4dd0d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.4_18fb21720df907b62ae79351bbe2b9a38186075e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\9c311a0d6a84582796c933d7314eb6176f6ac2b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_9b0f5665f0af6b3815535cafb01194d8fefbe94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\c0a9b16cdd75e553f9c32741ee3c73a2ceffb4f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_b343a06502d93bdf31edcb042f4a822187956c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\6e1e74f449d75b2c7855cb00cd50957a69083618\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_8bfac0db18e1e5efba928355d419b7057f5ed7c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\63e9df1f48e148e19c7288218ed12d6e993ce5a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2c9ce94bbc3c8bc1834c596dc5c8eca8fc04166">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_af6076a0ed896d39cad9bfb2f39543b67c64fb93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\e154a2c10bc6cbf93ac237058daab07f4baee876\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_d1965d3d8eba3f63acd6e691eeff944b589cb783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\8017dc888571f63a22b3b8a6edea47fdae5421e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_22291d6efd6d7bfc85af6e52a5c4ef63feb90b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_0f9f63a23887f7befeba24432cc86b088968a65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aakash Bhatia\.android\build-cache\4ffef20552f4d2d5b8a75ecc8f51df6255efef2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Aakash Bhatia\AndroidStudioProjects\Demo_2_TextBox\app\build\intermediates\pre-dexed\debug\classes_38263042636f13ff68921fdbc6b2de3c3c9ad053.jar" />
+    </item>
+
+</items>
