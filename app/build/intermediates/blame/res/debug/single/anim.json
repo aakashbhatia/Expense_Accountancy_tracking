@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_open.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_forward.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_backward.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_close.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\3a08d45699a9c0207a92a027b1abf9632e34a017\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\0709b65947c789663567b13830494907d8b69e77\\output\\res\\anim\\slide_top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\63e9df1f48e148e19c7288218ed12d6e993ce5a8\\output\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\789f504d493e00e876aff727298134531de66792\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kruti\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\kruti\\.android\\build-cache\\751a04cbadcbbcd01b0e16472d0ec7e892d473f0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aakash Bhatia\\AndroidStudioProjects\\Demo_2_TextBox\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Aakash Bhatia\\.android\\build-cache\\f30a2784a733b872becb14d27921713d15dd9032\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]
