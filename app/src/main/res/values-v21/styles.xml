@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#0C77B4</item>
+        <item name="colorPrimaryDark">#0D6493</item>
+        <item name="colorAccent">#0C77B4</item>
+        <item name="android:colorForeground">#0C77B4</item>
+        <item name="android:navigationBarColor">#0D6493</item>
+        <item name="android:textColorPrimary">#0C77B4</item>
+        <item name="android:textColorSecondary">#0C77B4</item>
+        <item name="android:statusBarColor">#0D6493</item>
+    </style>
+
+    <style name="Blue" parent="Blue">
+        <item name="colorPrimary">#0C77B4</item>
+        <item name="colorAccent">#0F6DA7</item>
+        <item name="android:navigationBarColor">#0F6DA7</item>
+        <item name="colorPrimaryDark">#0F6DA7</item>
+        <item name="android:colorForeground">#0C77B4</item>
+        <item name="android:textColorPrimary">#0C77B4</item>
+        <item name="android:textColorSecondary">#0C77B4</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

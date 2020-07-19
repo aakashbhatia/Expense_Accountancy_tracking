@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.aakashbhatia.demo_2_textbox.home"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+        <TextView
+            android:text="Home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-43dp"
+            android:layout_marginLeft="13dp"
+            android:id="@+id/title"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="80dp"
+        android:layout_marginRight="16dp"
+        app:srcCompat="@drawable/oie_transparent1"
+        app:elevation="8dp"
+        app:pressedTranslationZ="12dp"
+        android:scaleType="fitXY"
+        android:clickable="true"/>          <!--design:menu="@menu/bottom_nav_items"-->          <!--"#37474f"-->        <!--"#263238"-->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab2"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="160dp"
+        android:layout_marginRight="16dp"
+        app:srcCompat="@drawable/oie_transparent1"
+        app:elevation="8dp"
+        app:pressedTranslationZ="12dp"
+        android:scaleType="fitXY"
+        android:clickable="true"
+        android:visibility="invisible"/>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab1"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="240dp"
+        android:layout_marginRight="16dp"
+        app:srcCompat="@drawable/oie_transparent1"
+        app:elevation="8dp"
+        app:pressedTranslationZ="12dp"
+        android:scaleType="fitXY"
+        android:clickable="true"
+        android:visibility="invisible"/>
+
+        <fragment
+            android:id="@+id/fragment3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout="@layout/fragment_home"
+            android:name="com.example.aakashbhatia.demo_2_textbox.fragment_home"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="56dp"
+            android:clickable="true"/>
+        <!--
+        <include layout="@layout/content_home"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" />
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="56dp"-->
+
+
+    <!--<com.wangjie.rapidfloatingactionbutton.RapidFloatingActionLayout
+        xmlns:rfal="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/activity_main_rfal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        rfal:rfal_frame_color="#FFFFFF"
+        rfal:rfal_frame_alpha="0.7">
+        <com.wangjie.rapidfloatingactionbutton.RapidFloatingActionButton
+            xmlns:rfab="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/activity_main_rfab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="6dp"
+            android:layout_marginBottom="70dp"
+            android:padding="8dp"
+            rfab:rfab_size="normal"
+            rfab:rfab_drawable="@drawable/oie_transparent1"
+            rfab:rfab_color_normal="#0C77B4"
+            rfab:rfab_color_pressed="#0F6DA1"
+            rfab:rfab_shadow_radius="7dp"
+            rfab:rfab_shadow_color="#999999"
+            rfab:rfab_shadow_dx="3dp"
+            rfab:rfab_shadow_dy="3dp" />
+    </com.wangjie.rapidfloatingactionbutton.RapidFloatingActionLayout>-->
+
+    <RelativeLayout
+        android:id="@+id/menucontainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:background="@color/colorPrimary"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <RelativeLayout
+            android:id="@+id/menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <RelativeLayout
+                android:id="@+id/homelayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/home"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/home" />
+
+                <TextView
+                    android:id="@+id/texthome"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/home"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="-12dp"
+                    android:text="Home"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/memberlayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/homelayout"
+                android:layout_toRightOf="@+id/homelayout"
+                android:clickable="true"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp">
+
+                <ImageButton
+                    android:id="@+id/member"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/oie_transparent1" />
+
+                <TextView
+                    android:id="@+id/textmember"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/member"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="-12dp"
+                    android:text="Member"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/expenselayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/memberlayout"
+                android:layout_toRightOf="@+id/memberlayout"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp">
+
+                <ImageButton
+                    android:id="@+id/expense"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/expense" />
+
+                <TextView
+                    android:id="@+id/textexpense"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/expense"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="-12dp"
+                    android:text="Expense"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/reportlayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/expenselayout"
+                android:layout_toRightOf="@+id/expenselayout"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp">
+
+                <ImageButton
+                    android:id="@+id/report"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/report" />
+
+                <TextView
+                    android:id="@+id/textreport"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/report"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="-12dp"
+                    android:text="Report"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/savinglayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/reportlayout"
+                android:layout_toRightOf="@+id/reportlayout"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp">
+
+                <ImageButton
+                    android:id="@+id/saving"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/saving" />
+
+                <TextView
+                    android:id="@+id/textsaving"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/saving"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="-12dp"
+                    android:text="Saving"
+                    android:textColor="#FFFFFF" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

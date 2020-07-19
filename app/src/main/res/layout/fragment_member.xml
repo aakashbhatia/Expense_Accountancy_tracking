@@ -1,0 +1,275 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent" android:layout_height="match_parent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:paddingBottom="150dp"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp"
+        android:paddingTop="16dp"
+        tools:ignore="ScrollViewSize">
+        <TextView
+            android:id="@+id/Textaddmember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:shadowRadius="5"
+            android:text="@string/add_member"
+            android:textColor="#0C77B4"
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/addmember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="15dp"
+            android:inputType="textEmailAddress"
+            android:textColor="#0C77B4"
+            android:textColorHint="@android:color/darker_gray"
+
+            tools:ignore="RtlHardcoded"
+            android:layout_below="@+id/Textaddmember"
+            />
+        <Button
+            android:text="@string/add"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/addbutton"
+            android:background="#0C77B4"
+            android:textColor="@android:color/background_light"
+            android:layout_marginTop="30dp"
+            tools:ignore="RtlHardcoded"
+            android:layout_alignLeft="@+id/removebutton"
+            android:layout_alignStart="@+id/removebutton"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+        <TextView
+            android:id="@+id/Textremovemember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textSize="20dp"
+            android:shadowRadius="5"
+            android:text="Remove Member"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/addmember"
+            android:textColor="#0C77B4"
+
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/ScrollRemove"
+            android:layout_below="@id/Textremovemember"
+            tools:ignore="NestedScrolling">
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Textremovemember"
+                android:id="@+id/frameremove"
+                android:layout_centerHorizontal="true"
+                tools:ignore="ObsoleteLayoutParam">
+
+                <CheckBox
+                    android:id="@+id/check_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Emma"
+                    android:textColor="#0C77B4"
+                     />
+                <CheckBox
+                    android:id="@+id/check_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/check_1"
+                    android:layout_marginTop="30dp"
+                    android:text="Mason"
+                    android:textColor="#0C77B4"
+
+                    tools:ignore="ObsoleteLayoutParam" />
+                <CheckBox
+                    android:id="@+id/check_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/check_2"
+                    android:layout_marginTop="60dp"
+                    android:text="Olivia"
+                    android:textColor="#0C77B4"
+
+                    tools:ignore="ObsoleteLayoutParam" />
+
+
+
+            </FrameLayout>
+        </ScrollView>
+        <Button
+            android:text="Remove"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/removebutton"
+            android:layout_below="@+id/ScrollRemove"
+            android:background="#0C77B4"
+            android:textColor="@android:color/background_light"
+            android:layout_marginTop="10dp"
+            tools:ignore="RtlHardcoded"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+        <TextView
+            android:id="@+id/Textmakehead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textSize="20dp"
+            android:shadowRadius="5"
+            android:text="@string/make_head"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/removebutton"
+            android:textColor="#0C77B4"
+
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/Scrollmake"
+            android:layout_below="@id/Textmakehead"
+            android:layout_marginTop="5dp"
+            tools:ignore="NestedScrolling">
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Textremovemember"
+                android:id="@+id/framemake"
+                android:layout_centerHorizontal="true"
+                tools:ignore="ObsoleteLayoutParam">
+
+                <CheckBox
+                    android:id="@+id/checkmake_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Emma"
+                    android:textColor="#0C77B4"
+                     />
+                <CheckBox
+                    android:id="@+id/checkmake_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/checkmake_1"
+                    android:layout_marginTop="30dp"
+                    android:text="Mascon"
+                    android:textColor="#0C77B4"
+
+                    tools:ignore="ObsoleteLayoutParam" />
+                <CheckBox
+                    android:id="@+id/checkmake_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/checkmake_2"
+                    android:layout_marginTop="60dp"
+                    android:text="Lucas"
+                    android:textColor="#0C77B4"
+
+                    tools:ignore="ObsoleteLayoutParam" />
+
+                    tools:ignore="ObsoleteLayoutParam" />
+
+            </FrameLayout>
+        </ScrollView>
+
+        <Button
+            android:text="@string/make"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/makebutton"
+            android:layout_below="@+id/Scrollmake"
+            android:background="#0C77B4"
+            android:textColor="@android:color/background_light"
+            android:layout_marginTop="10dp"
+            tools:ignore="RtlHardcoded"
+            android:layout_alignLeft="@+id/removebutton"
+            android:layout_alignStart="@+id/removebutton"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/Textremovehead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textSize="20sp"
+            android:shadowRadius="5"
+            android:text="Remove Head"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/makebutton"
+            android:textColor="#0C77B4"
+
+            />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/Scrollremovehead"
+            android:layout_below="@id/Textremovehead"
+            android:layout_marginTop="5dp"
+            tools:ignore="NestedScrolling">
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/frameremovehead"
+                android:layout_centerHorizontal="true"
+                tools:ignore="ObsoleteLayoutParam">
+
+                <CheckBox
+                    android:id="@+id/checkremovehead_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Olivia"
+                    android:textColor="#0C77B4"
+                    />
+                <CheckBox
+                    android:id="@+id/checkremovehead_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/checkremovehead_1"
+                    android:layout_marginTop="30dp"
+                    android:text="Logan"
+                    android:textColor="#0C77B4"
+
+                    tools:ignore="ObsoleteLayoutParam" />
+
+            </FrameLayout>
+        </ScrollView>
+
+        <Button
+            android:text="Remove Head"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/removeheadbutton"
+            android:layout_below="@+id/Scrollremovehead"
+            android:background="#0C77B4"
+            android:textColor="@android:color/background_light"
+            android:layout_marginTop="10dp"
+            tools:ignore="RtlHardcoded"
+            android:layout_alignLeft="@+id/makebutton"
+            android:layout_alignStart="@+id/makebutton"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</ScrollView>
+</RelativeLayout>

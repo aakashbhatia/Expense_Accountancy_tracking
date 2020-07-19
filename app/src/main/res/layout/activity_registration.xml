@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_registration"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="com.example.aakashbhatia.demo_2_textbox.registration"
+    tools:ignore="ScrollViewSize">
+
+
+    <TextView
+        android:text="@string/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:shadowRadius="5"
+        android:id="@+id/TextName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_edit"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:textColor="#0C77B4"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="20sp"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextName"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/Password_co"
+        android:layout_alignStart="@+id/Password_co" />
+
+    <TextView
+        android:text="@string/email_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="11dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextEmail"
+        android:layout_below="@+id/Name"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/Email_id"
+        android:drawableLeft="@android:drawable/ic_menu_send"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextEmail"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/Name"
+        android:layout_alignStart="@+id/Name" />
+
+    <TextView
+        android:text="@string/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="12dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextPassword"
+        android:layout_below="@+id/Email_id"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:layout_below="@+id/TextPassword"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/Password_main"
+        android:drawableLeft="@android:drawable/ic_menu_view"
+        tools:ignore="RtlHardcoded"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/Password_co"
+        android:layout_alignStart="@+id/Password_co" />
+
+    <TextView
+        android:text="Confirm Password : *"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="11dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextCOPassword"
+        android:layout_below="@+id/Password_main"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/Password_co"
+        android:drawableLeft="@android:drawable/ic_menu_view"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextCOPassword"
+        android:layout_alignLeft="@+id/Contact"
+        android:layout_alignStart="@+id/Contact"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="@string/monthly_salary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="11dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextSalary"
+        android:layout_below="@+id/Password_co"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/Salary"
+        android:drawableLeft="@android:drawable/ic_menu_today"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextSalary"
+        android:layout_alignLeft="@+id/Contact"
+        android:layout_alignStart="@+id/Contact"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="@string/current_unused_salary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="11dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextUnusedSalary"
+        android:layout_below="@+id/Salary"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/UnusedSalary"
+        android:drawableLeft="@android:drawable/ic_menu_my_calendar"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextUnusedSalary"
+        android:layout_alignLeft="@+id/Contact"
+        android:layout_alignStart="@+id/Contact"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="@string/contact_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="11dp"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:id="@+id/TextContact"
+        android:layout_below="@+id/UnusedSalary"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:textColor="#0C77B4"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/darker_gray"
+        android:id="@+id/Contact"
+        android:drawableLeft="@android:drawable/ic_menu_call"
+        tools:ignore="RtlHardcoded"
+        android:layout_below="@+id/TextContact"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="@string/register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/register"
+        android:background="#0C77B4"
+        android:textColor="@android:color/background_light"
+        android:layout_below="@+id/Contact"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp" />
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="150dp"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:paddingTop="16dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            tools:ignore="ScrollViewSize">
+
+            <TextView
+            android:text="   Initial balance :"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#0C77B4"
+            android:textSize="20sp"
+            android:layout_marginLeft="4dp"
+            android:shadowRadius="5"
+            android:id="@+id/initialbalance"/>
+            <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#0C77B4"
+            android:textSize="20sp"
+            android:shadowRadius="5"
+            android:id="@+id/initialbalance1"
+            android:maxWidth="206dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+            <TextView
+            android:text="-  Total expense :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0C77B4"
+                android:textSize="20sp"
+                android:shadowRadius="5"
+                android:id="@+id/totalexpense"
+                android:layout_marginTop="6dp"
+                android:layout_marginLeft="3dp"
+                android:layout_below="@+id/initialbalance"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <TextView
+                android:text=""
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0C77B4"
+                android:textSize="20sp"
+                android:shadowRadius="5"
+                android:id="@+id/totalexpense1"
+                android:maxWidth="206dp"
+                android:layout_above="@+id/currentbalance"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:text="Current Balance :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0C77B4"
+                android:textSize="20sp"
+                android:shadowRadius="5"
+                android:id="@+id/currentbalance"
+                android:layout_marginTop="12dp"
+                android:layout_below="@+id/totalexpense"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#c0c0c0"
+                android:layout_below="@+id/currentbalance"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/view2"
+                android:layout_marginTop="6dp"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#c0c0c0"
+                android:id="@+id/view"
+                android:layout_above="@+id/currentbalance"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="-6dp"/>
+
+            <TextView
+                android:text=""
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0C77B4"
+                android:textSize="20sp"
+                android:shadowRadius="5"
+                android:id="@+id/currentbalance1"
+                android:maxWidth="206dp"
+                android:layout_alignBaseline="@+id/currentbalance"
+                android:layout_alignBottom="@+id/currentbalance"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view2"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="12dp"
+                android:clickable="false"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clickable="false">
+                    <TextView
+                        android:text="Today's total expense :"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#0C77B4"
+                        android:textSize="20sp"
+                        android:shadowRadius="5"
+                        android:id="@+id/today"
+                        android:clickable="false"/>
+
+                    <ImageButton
+                        android:layout_height="16dp"
+                        android:layout_width="16dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:id="@+id/settings"
+                        app:srcCompat="@drawable/settings"
+                        android:scaleType="centerCrop"
+                        android:background="#80FFFFFF"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:clickable="true"/>
+
+                    <TextView
+                        android:text=""
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#0C77B4"
+                        android:textSize="20sp"
+                        android:shadowRadius="5"
+                        android:id="@+id/today1"
+                        android:maxWidth="263dp"
+                        android:clickable="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_toLeftOf="@+id/settings"
+                        android:layout_toStartOf="@+id/settings" />
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.github.mikephil.charting.charts.PieChart
+                        android:id="@+id/chart"
+                        android:layout_width="450dp"
+                        android:layout_height="450dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_centerHorizontal="true"/>
+
+                    <TextView
+                        android:text="Categorywise Expense :"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#0C77B4"
+                        android:textSize="20sp"
+                        android:shadowRadius="5"
+                        android:id="@+id/category"
+                        android:clickable="false"
+                        android:layout_alignTop="@+id/chart"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+
+                    <Button
+                        android:text="\t Get Detailed Expenses \t"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/detail"
+                        android:layout_below="@+id/category"
+                        android:layout_centerHorizontal="true"
+                        android:background="#0C77B4"
+                        android:textColor="@android:color/background_light"
+                        android:layout_margin="15dp"
+                        android:clickable="true"/>
+
+                </RelativeLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
